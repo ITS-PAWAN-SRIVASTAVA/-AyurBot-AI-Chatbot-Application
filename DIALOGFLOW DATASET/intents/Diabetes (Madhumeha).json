@@ -1,0 +1,40 @@
+{
+  "id": "b432c2c9-7c78-4c2c-bc2b-cd7086559c73",
+  "name": "Diabetes (Madhumeha)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "DiabetesMadhumeha-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Diabetes, or Madhumeha, requires lifelong management. Lifestyle modifications include following a balanced diet, regular exercise, and monitoring blood sugar levels. Ayurvedic herbs like Gurmar and Vijaysar, along with formulations like Chandraprabha Vati, may help regulate blood sugar."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

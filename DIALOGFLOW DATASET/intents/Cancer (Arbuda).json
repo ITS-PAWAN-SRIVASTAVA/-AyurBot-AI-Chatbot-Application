@@ -1,0 +1,40 @@
+{
+  "id": "a501f955-fc23-4cf4-893c-c8dc7ec8eef4",
+  "name": "Cancer (Arbuda)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "CancerArbuda-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cancer, or Arbuda, presents symptoms like unexplained weight loss and fatigue. Supportive care, surgery, and chemotherapy are recommended. Ayurvedic herbs like Ashwagandha and Tulsi, along with formulations like Kanchnar guggulu, may offer support."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

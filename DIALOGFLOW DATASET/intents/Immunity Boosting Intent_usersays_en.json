@@ -1,0 +1,54 @@
+[
+  {
+    "id": "bb5676e2-8ca7-4981-bef8-60804aee3040",
+    "data": [
+      {
+        "text": "immunity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce31dbb8-fa3b-4a8f-b475-ca5d85d3d194",
+    "data": [
+      {
+        "text": "boosting immunity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66097bdd-6e51-4a00-9137-c6c767e36993",
+    "data": [
+      {
+        "text": "boost immunity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11d983df-3055-4fa0-af32-fe1568e5072c",
+    "data": [
+      {
+        "text": "immunity boost",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

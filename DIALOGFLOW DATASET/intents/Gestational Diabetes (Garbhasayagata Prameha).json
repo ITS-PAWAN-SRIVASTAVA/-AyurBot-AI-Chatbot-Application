@@ -1,0 +1,35 @@
+{
+  "id": "131f399b-e2bf-4d69-8baa-eb76247ec81a",
+  "name": "Gestational Diabetes (Garbhasayagata Prameha)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Gestational Diabetes, or Garbhasayagata Prameha, poses risks to both mother and baby. Monitoring blood sugar levels and lifestyle modifications are key. Ayurvedic herbs like Turmeric and Bitter Gourd, along with formulations like Guduchi Satva, may support pregnancy health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fa2d289f-0fc2-499d-8ab8-5cebe291ab1b",
+  "name": "Stress Management in Ayurveda",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ayurveda recommends practices like meditation, yoga, and herbal supplements such as Ashwagandha to manage stress. It emphasizes a holistic approach to restore balance."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

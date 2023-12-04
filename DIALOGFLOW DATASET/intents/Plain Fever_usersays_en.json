@@ -1,0 +1,28 @@
+[
+  {
+    "id": "3c0fca3c-5a9f-47ba-b97f-f9c26487b597",
+    "data": [
+      {
+        "text": "i have fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7eb2509b-563d-4654-b78a-993f93439cd1",
+    "data": [
+      {
+        "text": "I have a fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

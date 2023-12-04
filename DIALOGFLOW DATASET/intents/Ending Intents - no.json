@@ -1,0 +1,46 @@
+{
+  "id": "4202e713-b5c1-4476-81be-6fbaee84597b",
+  "parentId": "7868968c-c174-4a5d-830e-23944d5128b4",
+  "rootParentId": "7868968c-c174-4a5d-830e-23944d5128b4",
+  "name": "Ending Intents - no",
+  "auto": true,
+  "contexts": [
+    "EndingIntents-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EndingIntents.EndingIntents-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright, if you ever have more questions in the future, feel free to reach out. Have a great day!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

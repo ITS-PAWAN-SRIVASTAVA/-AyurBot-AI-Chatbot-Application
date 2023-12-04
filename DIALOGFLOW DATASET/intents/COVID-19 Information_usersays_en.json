@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1edb2545-3108-4608-8042-042bcfcfefb1",
+    "data": [
+      {
+        "text": "corona disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28cf981c-f5bc-4f27-937d-b5190d127568",
+    "data": [
+      {
+        "text": "corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82593c3c-d68e-44a9-903f-f5fc6ed1faa2",
+    "data": [
+      {
+        "text": "covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b57a0cba-34ae-49c1-b664-d96559399c49",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic remedies for COVID-",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0778d702-40f0-4ee5-bc29-bad1defd234f",
+    "data": [
+      {
+        "text": "How can I protect myself from COVID-",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ac5ad70-bb10-472f-b9da-7ebb584bf610",
+    "data": [
+      {
+        "text": "What are the symptoms of COVID-",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

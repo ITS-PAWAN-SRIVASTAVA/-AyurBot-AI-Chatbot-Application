@@ -1,0 +1,47 @@
+{
+  "id": "cb59e83c-5079-4874-b49e-eb88525b367c",
+  "parentId": "951e4f2c-923d-4dc0-a9f0-3e56963abaf8",
+  "rootParentId": "951e4f2c-923d-4dc0-a9f0-3e56963abaf8",
+  "name": "General Cancer - no",
+  "auto": true,
+  "contexts": [
+    "GeneralCancer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GeneralCancer.GeneralCancer-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For Cancer, early detection is crucial. Consult with a healthcare professional who may recommend treatments such as surgery, chemotherapy, or radiation therapy."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

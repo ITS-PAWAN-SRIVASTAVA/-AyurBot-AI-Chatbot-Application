@@ -1,0 +1,50 @@
+{
+  "id": "30586d77-1827-4c3f-9305-07a9c0d4fd26",
+  "name": "Post-Menopausal Osteoporosis (Asthi-Majja Kshaya)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5378214d-fa48-4d9b-be82-9d51a7653ec6",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Post-Menopausal Osteoporosis, or Asthi-Majja Kshaya, involves bone loss in women after menopause. Calcium and Vitamin D supplements, along with lifestyle modifications, are used. Ayurvedic herbs like Arjuna and Ashwagandha, along with formulations like Asthi-Majja Kashaya, may support bone health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

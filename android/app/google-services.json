@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451019949895",
+    "project_id": "ayurchatbot-97f3b",
+    "storage_bucket": "ayurchatbot-97f3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451019949895:android:d64823ec949de57f042e62",
+        "android_client_info": {
+          "package_name": "com.example.ayurveda_chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIaIvvoCYI2ttD15S8agCcOZITdV-6Plc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

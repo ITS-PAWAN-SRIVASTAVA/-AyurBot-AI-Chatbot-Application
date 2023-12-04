@@ -1,0 +1,41 @@
+[
+  {
+    "id": "0b7c3c1b-6eae-49c9-9e6a-c7dbd8c32dd4",
+    "data": [
+      {
+        "text": "i think i have menstrual disorder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f417e473-c4f5-4999-91bf-71bfc086682f",
+    "data": [
+      {
+        "text": "i have menstrual disorder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "254c18a0-d9dc-4df3-b73f-f2ce8243b094",
+    "data": [
+      {
+        "text": "I have menstrual issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

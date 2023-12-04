@@ -1,0 +1,119 @@
+[
+  {
+    "id": "22ee4540-3e20-47eb-a332-0d7598b8ee98",
+    "data": [
+      {
+        "text": "pregnancy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37f08b72-062a-4d9e-b1aa-15b3ff1dd211",
+    "data": [
+      {
+        "text": "pregnancy health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cd82509-da69-46a4-8d39-333a997ce474",
+    "data": [
+      {
+        "text": "Guduchi Satva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6845cd5f-b0ac-4c2e-a1c5-38912bb32757",
+    "data": [
+      {
+        "text": "garbhasayagata prameha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99c467ff-b061-4f24-b059-793f2a69f8ef",
+    "data": [
+      {
+        "text": "garbhasayagata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "560089f1-f725-4fa3-91aa-de95697b20b0",
+    "data": [
+      {
+        "text": "gestational diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "510242e8-3606-4288-8f64-49f30ee4768b",
+    "data": [
+      {
+        "text": "How is gestational diabetes managed in Ayurveda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5f16195-6c5d-4a61-ae12-685b68b92d28",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs for pregnancy health.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8a56f27-f324-4ad2-902e-6952ff1163c7",
+    "data": [
+      {
+        "text": "What are the risks of gestational diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

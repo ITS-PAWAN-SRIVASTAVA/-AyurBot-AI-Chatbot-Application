@@ -1,0 +1,67 @@
+[
+  {
+    "id": "b141a413-a3e1-414b-bd50-ba954cb52af1",
+    "data": [
+      {
+        "text": "malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "519acd48-08b6-45e7-af26-28b05d86dc97",
+    "data": [
+      {
+        "text": "nausea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f55208c1-e433-4f75-8789-6eeb2a6ada8e",
+    "data": [
+      {
+        "text": "jaundice",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42b08633-3ab0-4494-97ab-8a278b534c11",
+    "data": [
+      {
+        "text": "anemia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac820867-9830-4759-ae0f-fd573835abbb",
+    "data": [
+      {
+        "text": "fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

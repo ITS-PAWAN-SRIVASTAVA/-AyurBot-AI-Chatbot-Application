@@ -1,0 +1,36 @@
+{
+  "id": "ae87f173-710a-4bd1-9271-c11f5073b189",
+  "name": "Heartburn",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Herbs such as Amla and Licorice, along with formulations like Amlapitta Mishran, are utilized in Ayurveda to manage heartburn and acidity. These remedies aim to cool excess heat in the digestive system and support overall digestive health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

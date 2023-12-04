@@ -1,0 +1,171 @@
+[
+  {
+    "id": "814fab01-8d4d-4f2a-a1e1-a5f5b10b67a1",
+    "data": [
+      {
+        "text": "bp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "effc0ee4-fa61-44ef-a659-b7fd5aa50756",
+    "data": [
+      {
+        "text": "blood pressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60fd52a9-8594-413b-a39f-19d458b504e3",
+    "data": [
+      {
+        "text": "regulatebloodpressure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7acde17-b1ca-49a0-aec6-899ac703ebe3",
+    "data": [
+      {
+        "text": "healthy weight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "123fd8b7-e972-4cf4-867b-fed27e608beb",
+    "data": [
+      {
+        "text": "reducesodium",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c40e239f-7921-4b31-b5b4-8a9f0afcf50c",
+    "data": [
+      {
+        "text": "raktagata vata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e99b0bca-f3c7-40ce-b0e0-3675b629365e",
+    "data": [
+      {
+        "text": "raktagata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4755e616-3bdb-4ce9-9d62-0289e57aa230",
+    "data": [
+      {
+        "text": "hypertension",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5517ff2-c00d-4b88-b764-d92aa4b3a363",
+    "data": [
+      {
+        "text": "tension",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87c7b321-3023-4689-99d9-e8168ca3400c",
+    "data": [
+      {
+        "text": "hyper",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df8942d9-8f8c-4b30-8978-0642a3604fd8",
+    "data": [
+      {
+        "text": "Are there any specific dietary precautions for hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b178b017-c3f2-4530-8340-f2c08cbca4ec",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs that can help regulate blood pressure.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4f9a3c4-4433-46a8-a771-a596c6941d3e",
+    "data": [
+      {
+        "text": "What are the recommended lifestyle changes for managing hypertension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "e20b5d45-fdae-48ec-85ab-aeedc5ad54db",
+    "data": [
+      {
+        "text": "skin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af0f4519-8e2b-4fbb-840f-d2a777dccc37",
+    "data": [
+      {
+        "text": "skincare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab8b8dff-005e-4f6e-a475-2d288f8249ad",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic skincare.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

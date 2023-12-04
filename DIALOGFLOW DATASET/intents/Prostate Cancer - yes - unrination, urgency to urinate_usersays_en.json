@@ -1,0 +1,54 @@
+[
+  {
+    "id": "55398437-be41-4f32-9483-4da130a6077e",
+    "data": [
+      {
+        "text": "urgency to urinate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f1687e8-6cdf-4a93-924c-02adfec48b1c",
+    "data": [
+      {
+        "text": "interrupted urine flow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f398cf6a-560a-4b92-80ca-0ea512e4df08",
+    "data": [
+      {
+        "text": "weak urine flow",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3184348-658f-4797-8325-d534259f6cd3",
+    "data": [
+      {
+        "text": "frequent uirnation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

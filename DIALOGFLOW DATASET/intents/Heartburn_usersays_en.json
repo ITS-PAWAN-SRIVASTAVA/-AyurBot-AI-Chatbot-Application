@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9436b674-fef8-4179-b034-b67366e6da84",
+    "data": [
+      {
+        "text": "i am suffering from heartburn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9be1918a-5a22-4226-a95e-163159c43ceb",
+    "data": [
+      {
+        "text": "heartburn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60e44f2d-4e1f-4432-91cc-b0c5b27561b9",
+    "data": [
+      {
+        "text": "i have heartburn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

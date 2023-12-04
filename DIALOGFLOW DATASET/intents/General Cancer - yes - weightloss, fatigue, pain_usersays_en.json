@@ -1,0 +1,67 @@
+[
+  {
+    "id": "89c2e08e-56af-429c-920a-4da86a4a2390",
+    "data": [
+      {
+        "text": "severe pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fececd4-b445-4cba-9a18-b5063b185631",
+    "data": [
+      {
+        "text": "pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aad88bd3-6278-489e-ab45-677f8c73811a",
+    "data": [
+      {
+        "text": "fatigue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a7e3b75-4644-4b19-b3d9-74d5795f363b",
+    "data": [
+      {
+        "text": "weight loss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2058c952-16f0-4fd5-81f3-7fa07cce70cf",
+    "data": [
+      {
+        "text": "unexplained weight loss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

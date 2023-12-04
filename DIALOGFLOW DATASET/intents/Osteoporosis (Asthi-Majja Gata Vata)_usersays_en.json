@@ -1,0 +1,165 @@
+[
+  {
+    "id": "72a790bc-1826-4156-9591-625281114a75",
+    "data": [
+      {
+        "text": "weak ",
+        "userDefined": false
+      },
+      {
+        "text": "bone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "979ca801-9d05-4066-b6e0-b3f9fadc8afb",
+    "data": [
+      {
+        "text": "weak ",
+        "userDefined": false
+      },
+      {
+        "text": "bones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2a4d9ca-1e94-4ad5-aae8-60ba4fe478f5",
+    "data": [
+      {
+        "text": "Asthiposhak tablet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74059144-2094-49ed-8756-a6f688437008",
+    "data": [
+      {
+        "text": "bone",
+        "userDefined": false
+      },
+      {
+        "text": " health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1259edc9-c46d-425c-aac2-db6eb7dfc59c",
+    "data": [
+      {
+        "text": "bone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0054bd19-a15b-4dda-abee-544ec1d13ebe",
+    "data": [
+      {
+        "text": "asthi-majja gata vata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "310e6c7d-82a9-4d7b-9237-b09b46e63703",
+    "data": [
+      {
+        "text": "asthi-majja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7aaf4386-a329-4d45-ba6d-68a92ff27bc4",
+    "data": [
+      {
+        "text": "Osteoporosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be93f4bd-aee9-4db2-b510-a8555b489ffa",
+    "data": [
+      {
+        "text": "Are there specific exercises for osteoporosis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f39942b1-9d43-4316-8085-3e582160971e",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs for ",
+        "userDefined": false
+      },
+      {
+        "text": "bone",
+        "userDefined": false
+      },
+      {
+        "text": " health.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9c8ba1b-3f7a-4d22-9168-7e6d4cb153ca",
+    "data": [
+      {
+        "text": "How can I manage bone pain in osteoporosis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

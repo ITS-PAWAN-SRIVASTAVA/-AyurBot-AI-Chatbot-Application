@@ -1,0 +1,36 @@
+{
+  "id": "e2e805a1-7dc4-4faa-b35c-68d5287b79a9",
+  "name": "Loose Motion Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ayurveda recommends several remedies for managing loose motions. Common suggestions include:\nBanana: Easily digestible, helps firm stools.\nPomegranate: Astringent properties may help control diarrhea.\nGinger: Anti-inflammatory, aids digestion. Boil ginger in water, drink the decoction.\nCurry Leaves: Boil leaves in water, consume for relief.\nCumin and Coriander Powder: Mix with honey, consume.\nButtermilk: Aids digestion, provides relief.\nIsabgol (Psyllium Husk): Helps bulk up stools."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

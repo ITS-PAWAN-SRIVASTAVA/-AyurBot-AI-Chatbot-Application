@@ -1,0 +1,47 @@
+{
+  "id": "5d9ae363-ff24-4b77-a21b-63b6364d6a55",
+  "parentId": "036831d1-4548-4f0e-beed-6f00086d26f1",
+  "rootParentId": "bb986662-52ee-4e90-a72f-0a8ad3ec5e07",
+  "name": "Breast Cancer - yes - unexplained weight loss, fatigue, pain in the breast",
+  "auto": true,
+  "contexts": [
+    "BreastCancer-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BreastCancer.BreastCancer-yes.BreastCancer-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for sharing. Based on your symptoms, Breast Cancer, known as \u0027Stana Arbuda\u0027 in Ayurveda, may be a concern. In Ayurveda, recommended herbs include Ashwagandha and Tulsi. The ancient Ayurvedic texts like Charaka Samhita and Sushruta Samhita provide insights into managing Breast Cancer. Its pharmacological properties include a Tikta (bitter) taste, Guru (heavy) qualities, Ushna (hot) potency, and Katu (pungent) Vipaka. For relief, you might consider Cisplatin and Tamoxifen as suggested drugs."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

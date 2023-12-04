@@ -1,0 +1,109 @@
+[
+  {
+    "id": "662d2fd0-2d1f-4f6a-ab60-fc6f61ba1b85",
+    "data": [
+      {
+        "text": "Asthi-Majja Kashaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b498b13-f70e-4723-9dbf-8ff8794413df",
+    "data": [
+      {
+        "text": "bone",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " loss in women",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "107763ec-bb2d-4ab5-a6bd-3a2242b5537d",
+    "data": [
+      {
+        "text": "Asthi-Majja Kshaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0f1af8d-c96e-4fb4-9944-947a11e82634",
+    "data": [
+      {
+        "text": "Post-Menopausal Osteoporosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6131353-ce89-4ce5-b7cd-c0c46e1d2212",
+    "data": [
+      {
+        "text": "How is post-menopausal osteoporosis managed in Ayurveda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02c3616b-7196-41ac-908a-5b1499a89dcf",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs for ",
+        "userDefined": false
+      },
+      {
+        "text": "bone",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " health.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41f792d4-768b-48cb-9738-1cadc8765ecc",
+    "data": [
+      {
+        "text": "What is post-menopausal osteoporosis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

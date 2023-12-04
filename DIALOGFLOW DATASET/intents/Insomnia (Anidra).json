@@ -1,0 +1,35 @@
+{
+  "id": "306cf7c8-093b-43a1-bdc8-c00035cd4bbe",
+  "name": "Insomnia (Anidra)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Insomnia, or Anidra, can be managed through good sleep hygiene practices. Ayurvedic herbs like Jatamansi and Ashwagandha, along with formulations like Brahmi Ghrita, may promote better sleep."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

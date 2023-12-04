@@ -1,0 +1,80 @@
+[
+  {
+    "id": "2d7f66e0-4851-45ff-87df-6318584a07eb",
+    "data": [
+      {
+        "text": "pratishyaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2794da1d-f069-4b66-9cf0-07d2d7689668",
+    "data": [
+      {
+        "text": "pratishya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7f0d8d2-ead5-4872-a2db-fea73c03ff1d",
+    "data": [
+      {
+        "text": "common cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94df8058-5468-4fc7-9f4a-e4ae00e5e24f",
+    "data": [
+      {
+        "text": "How should I prevent getting Pratishyaya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "105bb174-914c-4249-9e5f-cc34d0c205fa",
+    "data": [
+      {
+        "text": "Can you suggest some Ayurvedic herbs for treating a common cold?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf178b0c-3c8f-4e7a-8672-ae089b0d8e7f",
+    "data": [
+      {
+        "text": "What are the symptoms of Pratishyaya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

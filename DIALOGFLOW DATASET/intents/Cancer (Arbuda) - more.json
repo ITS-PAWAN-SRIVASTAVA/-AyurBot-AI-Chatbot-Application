@@ -1,0 +1,51 @@
+{
+  "id": "4b82ceb1-d7cf-45d1-9123-9a916e10ffaf",
+  "parentId": "a501f955-fc23-4cf4-893c-c8dc7ec8eef4",
+  "rootParentId": "a501f955-fc23-4cf4-893c-c8dc7ec8eef4",
+  "name": "Cancer (Arbuda) - more",
+  "auto": true,
+  "contexts": [
+    "CancerArbuda-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CancerArbuda.CancerArbuda-more",
+      "affectedContexts": [
+        {
+          "name": "CancerArbuda-more-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Certainly! Ayurveda approaches health and disease in a holistic manner. To provide more specific information, could you please specify what aspect of cancer in Ayurveda you are interested in? You might want to know about Ayurvedic remedies, dietary guidelines, or lifestyle recommendations for managing or preventing cancer."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

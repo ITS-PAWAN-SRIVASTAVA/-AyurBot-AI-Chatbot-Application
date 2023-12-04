@@ -1,0 +1,106 @@
+[
+  {
+    "id": "9becee0e-9206-44f5-9c4f-3084e5a221fd",
+    "data": [
+      {
+        "text": "severe diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7f94ec0-496c-44d5-bbe6-3bfef25fc2fc",
+    "data": [
+      {
+        "text": "vomiting diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e471d3e5-aac1-4228-b969-458da0fe1837",
+    "data": [
+      {
+        "text": "diarrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f1d471b-6cbf-4dec-b57f-0797251f6bca",
+    "data": [
+      {
+        "text": "visuchika",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0cf83ea-eb46-44bc-86d8-20ebc5fe0a63",
+    "data": [
+      {
+        "text": "cholera",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78014550-cd53-4e64-a31c-0e383087426a",
+    "data": [
+      {
+        "text": "Are there specific precautions to avoid cholera?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7deeaaac-581d-4974-9ff1-aed2b4087e0c",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic recommendations during cholera.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dba2c66f-523e-4f60-90ce-6038a3ef8537",
+    "data": [
+      {
+        "text": "What are the symptoms of cholera?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

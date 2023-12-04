@@ -1,0 +1,51 @@
+{
+  "id": "56cd27f0-2a7d-4f03-aaa1-12d3198a9c1b",
+  "parentId": "951e4f2c-923d-4dc0-a9f0-3e56963abaf8",
+  "rootParentId": "951e4f2c-923d-4dc0-a9f0-3e56963abaf8",
+  "name": "General Cancer - yes",
+  "auto": true,
+  "contexts": [
+    "GeneralCancer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GeneralCancer.GeneralCancer-yes",
+      "affectedContexts": [
+        {
+          "name": "GeneralCancer-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What other symptoms are you facing?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

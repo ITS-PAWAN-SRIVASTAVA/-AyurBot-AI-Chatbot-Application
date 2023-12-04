@@ -1,0 +1,35 @@
+{
+  "id": "7209ed02-ae7a-4de5-a421-db32dfacce43",
+  "name": "Chronic Kidney Disease (Vrikka Daurbalya)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Chronic Kidney Disease, or Vrikka Daurbalya, presents symptoms like fatigue and swelling. Ayurvedic herbs like Punarnava and Gokshura, along with formulations like Chandraprabha Vati, may support kidney health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

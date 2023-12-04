@@ -1,0 +1,35 @@
+{
+  "id": "9c7ac139-553f-49bd-883e-e291e9c412f9",
+  "name": "Parkinson\u0027s Disease (Kampavata)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Parkinson\u0027s Disease, or Kampavata, presents with symptoms like tremors and stiffness. Medications like Levodopa and Ropinirole are used. Ayurvedic herbs like Ashwagandha and Mucuna pruriens, along with formulations like Maharasnadi Kwath, may support neurological health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

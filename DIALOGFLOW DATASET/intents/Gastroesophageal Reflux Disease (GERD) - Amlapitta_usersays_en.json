@@ -1,0 +1,179 @@
+[
+  {
+    "id": "2336e65a-160f-472d-b9ac-a1121a705ab2",
+    "data": [
+      {
+        "text": "constipation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47e30e8a-077f-436b-9e26-c3fc2a472d7a",
+    "data": [
+      {
+        "text": "indigestion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3acd1ed-605d-42ea-a115-d55e2f3747a5",
+    "data": [
+      {
+        "text": "Gastroesophageal Reflux Disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "732728e4-cf34-44ad-a00f-efa2a287b0f0",
+    "data": [
+      {
+        "text": "support digestive health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82925bac-a9cd-4cae-b8cc-88b531d22617",
+    "data": [
+      {
+        "text": "Avipattikar churna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2775263-e677-4847-96a5-7b9e1ecf4f26",
+    "data": [
+      {
+        "text": "digestion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e301afe3-8597-40ff-a7f5-25285e0e4964",
+    "data": [
+      {
+        "text": "digestive health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bec2b32a-b550-449f-bd27-e8615ecdcaf7",
+    "data": [
+      {
+        "text": "Gastro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8d6924c-be1a-489c-95cf-df3ea596c6df",
+    "data": [
+      {
+        "text": "amlapitta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c502f9a4-78df-4908-88aa-e53e7546dd8e",
+    "data": [
+      {
+        "text": "GERD",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8393a787-f0bb-47f6-855f-4630ad5059b8",
+    "data": [
+      {
+        "text": "Are there specific dietary precautions for ",
+        "userDefined": false
+      },
+      {
+        "text": "GERD",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc6c06bd-b5ff-4836-9d1e-54f268526f19",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs for digestive health.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "873ec99c-0e14-41b6-89a1-1cacbb28bc5e",
+    "data": [
+      {
+        "text": "How can I manage heartburn in GERD?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "d017cffe-5f46-4cbe-b943-56d163eec150",
+  "parentId": "e9a18385-605b-4b13-a843-0b3f37235784",
+  "rootParentId": "48a74282-7870-4d3a-a333-f715c7c079e6",
+  "name": "Infectious Disease - yes - chikungunya",
+  "auto": true,
+  "contexts": [
+    "InfectiousDisease-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InfectiousDisease.InfectiousDisease-yes.InfectiousDisease-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "InfectiousDisease-yes-chikungunya-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ashwagandha (Withania somnifera): Ashwagandha is considered an adaptogen and may help in managing symptoms like joint pain and fatigue.\n\nTriphala: Triphala, a combination of three fruits (amla, haritaki, bibhitaki), is believed to have anti-inflammatory properties and may aid in digestion.\n\nGuggulu (Commiphora wightii): Guggulu is traditionally used in Ayurveda for its anti-inflammatory and analgesic properties, which might be helpful in alleviating joint pain."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

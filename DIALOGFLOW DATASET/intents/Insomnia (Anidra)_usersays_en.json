@@ -1,0 +1,158 @@
+[
+  {
+    "id": "b89cc83e-73f4-42ff-964e-2040d0df2bb2",
+    "data": [
+      {
+        "text": "sleepingless",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2432681d-b9df-4bc0-8763-68c6d8f8e152",
+    "data": [
+      {
+        "text": "lesssleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da791946-def2-4396-b12d-ac2ad1fbbd37",
+    "data": [
+      {
+        "text": "nosleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec903d15-5472-41e2-bcd5-ba4348341ec0",
+    "data": [
+      {
+        "text": "sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc3c6c84-76aa-406d-b050-89533064d050",
+    "data": [
+      {
+        "text": "anid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61da6d49-ac89-4659-991f-0507ae38012c",
+    "data": [
+      {
+        "text": "anidra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f9ca58b-5772-45c5-815a-59053f44a87f",
+    "data": [
+      {
+        "text": "less sleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b97a229-0206-4e45-bd1a-5eecd226c614",
+    "data": [
+      {
+        "text": "lackofsleep",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c811de4-c3c9-4e0d-a097-e974f4832cae",
+    "data": [
+      {
+        "text": "insomnia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfc8fb26-5f76-47c5-a9f3-37a259b20c18",
+    "data": [
+      {
+        "text": "Are there any lifestyle changes to help with sleep?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed7af469-c274-47a2-b6a3-733b37718d78",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs for managing insomnia.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da094db4-c730-49e2-8855-bb5039a949f4",
+    "data": [
+      {
+        "text": "How can I improve my sleep quality naturally?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

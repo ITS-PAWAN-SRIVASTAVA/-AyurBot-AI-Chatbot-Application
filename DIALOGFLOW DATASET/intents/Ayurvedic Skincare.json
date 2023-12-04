@@ -1,0 +1,35 @@
+{
+  "id": "29dc99cb-35fd-43e5-bb6c-5816ed2c8602",
+  "name": "Ayurvedic Skincare",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ayurvedic skincare involves natural ingredients and practices tailored to your dosha. Herbal oils, gentle cleansers, and masks can enhance skin health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

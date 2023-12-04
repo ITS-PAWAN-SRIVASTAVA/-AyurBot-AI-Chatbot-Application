@@ -1,0 +1,119 @@
+[
+  {
+    "id": "c3efddf6-a1bd-4b6d-8862-b9c230c3d175",
+    "data": [
+      {
+        "text": "Chronic Kidney Disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52ca8479-0102-447a-a9de-e7569e43db9a",
+    "data": [
+      {
+        "text": "support kidney health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65359a4b-b753-4d11-8214-c4c9449ac122",
+    "data": [
+      {
+        "text": "vrikka daurbalya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b9c7573-0d83-4214-bcaf-b62e921b7ab8",
+    "data": [
+      {
+        "text": "kidney problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bdc9ef9-0538-4caa-b20f-9c9c4011d8b3",
+    "data": [
+      {
+        "text": "kidney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db8f5862-c472-4f92-849d-3e2e0942effc",
+    "data": [
+      {
+        "text": "chronic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d19b8500-793c-40a6-b7e7-6689b5bdb5ad",
+    "data": [
+      {
+        "text": "Are there specific dietary recommendations for kidney health?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c54e2c86-6ab9-4c4a-a927-62b855eb81c6",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs for kidney health.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be5173a9-92ec-48e2-88e4-1170502dcb4e",
+    "data": [
+      {
+        "text": "What are the common symptoms of chronic kidney disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

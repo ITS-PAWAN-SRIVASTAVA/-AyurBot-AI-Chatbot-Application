@@ -1,0 +1,37 @@
+{
+  "id": "c5c3a97d-4a25-42ea-8537-1a5c57247454",
+  "name": "Acidity Intents",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ayurveda recommends dietary changes, such as avoiding spicy and oily foods. You may also consider herbal remedies like aloe vera juice or licorice tea. However, it\u0027s crucial to consult with an Ayurvedic practitioner for personalized advice.",
+            "To manage acid reflux, Ayurveda emphasizes mindful eating, including chewing food thoroughly. You might find relief with a mixture of equal parts amla powder and coriander powder taken after meals.",
+            "In Ayurveda, it\u0027s advised to avoid acidic foods like citrus fruits and tomatoes. Instead, opt for cooling foods like cucumber and mint. Consulting with an Ayurvedic expert can provide personalized guidance based on your dosha and specific condition."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

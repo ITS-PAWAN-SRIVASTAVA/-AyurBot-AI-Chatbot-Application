@@ -1,0 +1,46 @@
+{
+  "id": "7b1987fb-dc26-4489-b2c3-c28e537f7127",
+  "parentId": "7868968c-c174-4a5d-830e-23944d5128b4",
+  "rootParentId": "7868968c-c174-4a5d-830e-23944d5128b4",
+  "name": "Ending Intents - yes",
+  "auto": true,
+  "contexts": [
+    "EndingIntents-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "EndingIntents.EndingIntents-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! I\u0027m here to help. What other questions do you have?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "6ed27fd8-1476-4482-a3ca-f68ca62a352f",
+  "parentId": "956d651b-6b76-48ba-9d80-e817c510789a",
+  "rootParentId": "956d651b-6b76-48ba-9d80-e817c510789a",
+  "name": "Lung Cancer - no",
+  "auto": true,
+  "contexts": [
+    "LungCancer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "LungCancer.LungCancer-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For Lung Cancer, early detection is crucial. Consult with a healthcare professional who may recommend treatments such as surgery, chemotherapy, or radiation therapy."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

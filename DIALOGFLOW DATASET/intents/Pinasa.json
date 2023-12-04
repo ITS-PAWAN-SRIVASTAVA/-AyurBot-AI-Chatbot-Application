@@ -1,0 +1,35 @@
+{
+  "id": "685d3b09-33cc-4db2-b5dd-2a97705e32da",
+  "name": "Pinasa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pinasa is characterized by congestion, sneezing, and headaches. Relief can be found through steam inhalation, staying hydrated, and rest. Ayurvedic herbs like Eucalyptus and Peppermint, along with formulations like Anu Taila and Sitopaladi churna, may be beneficial."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

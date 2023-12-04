@@ -1,0 +1,35 @@
+{
+  "id": "5cb05f06-f341-430f-9e99-ba29dfc4d997",
+  "name": "Psoriasis (Sidhma Kushtam)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Psoriasis, or Sidhma Kushtam, presents with red, scaly patches. Topical treatments, phototherapy, and systemic medications are recommended. Ayurvedic herbs like Aloe vera and Neem, along with formulations like Kaishora Guggulu, may provide support."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

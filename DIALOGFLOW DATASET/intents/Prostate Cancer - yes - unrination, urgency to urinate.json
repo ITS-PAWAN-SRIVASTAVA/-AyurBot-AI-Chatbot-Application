@@ -1,0 +1,47 @@
+{
+  "id": "59c6b448-14e4-47e5-94ec-3fa275d3cddc",
+  "parentId": "14b00d22-7f3a-4899-bdac-fabfc93e0534",
+  "rootParentId": "2c16ac13-1a09-419e-91f4-fda6053c98c0",
+  "name": "Prostate Cancer - yes - unrination, urgency to urinate",
+  "auto": true,
+  "contexts": [
+    "ProstateCancer-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ProstateCancer.ProstateCancer-yes.ProstateCancer-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for sharing. Based on your symptoms, Prostate Cancer, known as \u0027Ashthi Arbuda\u0027 in Ayurveda, may be a concern. In Ayurveda, recommended herbs include Ashwagandha and Tulsi. The ancient Ayurvedic texts like Charaka Samhita and Sushruta Samhita provide insights into managing Prostate Cancer. Its pharmacological properties include a Tikta (bitter) taste, Guru (heavy) qualities, Ushna (hot) potency, and Katu (pungent) Vipaka. For relief, you might consider Cisplatin and Tamoxifen as suggested drugs."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

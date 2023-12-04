@@ -1,0 +1,106 @@
+[
+  {
+    "id": "b89646f1-4ef8-43fe-992f-69ba3704ab77",
+    "data": [
+      {
+        "text": "managefever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75b48c26-bb0f-4602-8a2a-e0d83be531db",
+    "data": [
+      {
+        "text": "jvarafever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a8714bc-8f3f-4eb4-90cd-7da8f0509417",
+    "data": [
+      {
+        "text": "jvarfever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3765f0cf-fe76-4101-ae1b-7eca4b603337",
+    "data": [
+      {
+        "text": "fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47c333fa-65d0-4b79-86f3-607ab45584ec",
+    "data": [
+      {
+        "text": "jvara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1a909f9-d1cd-4e55-8beb-89cb03209886",
+    "data": [
+      {
+        "text": "What are the pharmacological properties of Jvara?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54b7296f-75ba-4909-97cc-6d2ed31126a5",
+    "data": [
+      {
+        "text": "Tell me about the Ayurvedic herbs used for treating Jvara.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7e5eb98-2e91-44d8-8d50-16cf610b80ed",
+    "data": [
+      {
+        "text": "How can I manage fever at home?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

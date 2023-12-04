@@ -1,0 +1,36 @@
+{
+  "id": "269f7486-fec5-4387-91b0-5b346b464111",
+  "name": "Well-being and Ayurvedic Treatments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I understand, stress can take a toll. In Ayurveda, practices like daily meditation, herbal teas like Brahmi, and warm oil massages can help alleviate stress. Remember to take breaks and prioritize self-care.",
+            "Maintaining a balanced lifestyle is crucial for mental well-being. Ayurveda recommends daily routines, yoga, and herbs like Ashwagandha for stress relief. Consider incorporating these practices into your routine."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ce8f2739-f2a8-40ac-9d91-5f25ba103956",
+  "name": "Tuberculosis (Rajayakshma)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tuberculosis, or Rajayakshma, presents with symptoms like cough and weight loss. Antibiotics like Isoniazid and Rifampin are standard treatments. Ayurvedic herbs like Vasa and Tulsi, along with formulations like Swasakuthar Ras, may support respiratory health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

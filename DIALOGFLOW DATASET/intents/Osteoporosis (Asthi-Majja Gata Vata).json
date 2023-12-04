@@ -1,0 +1,35 @@
+{
+  "id": "520fb2d3-6022-45a7-8c89-475d010bd5f6",
+  "name": "Osteoporosis (Asthi-Majja Gata Vata)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Osteoporosis, or Asthi-Majja Gata Vata, is managed with calcium and vitamin D supplements, weight-bearing exercises, and medications. Ayurvedic herbs like Shatavari and Arjuna, along with formulations like Asthiposhak tablet, may support bone health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

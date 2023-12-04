@@ -1,0 +1,59 @@
+{
+  "id": "639c6f1c-0194-4295-b5cc-b821a2e788f5",
+  "name": "Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry, I didn\u0027t quite get that. Could you please rephrase your question?",
+            "I\u0027m still learning. Can you provide more details?",
+            "I\u0027m not sure I understand. Can you clarify?",
+            "I\u0027m sorry, I didn\u0027t understand that. Could you please rephrase or ask another question?",
+            "I\u0027m sorry, I couldn\u0027t find relevant information. If you have specific questions about Ayurveda, feel free to ask."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "speech": [
+            "मुझे समझ नहीं आया. क्या आप अपनी बात दोहरा सकते हैं?",
+            "आपने क्या कहा, मुझे समझ नहीं आया. फिर से कहें?",
+            "माफ़ करें, क्या आप अपनी बात दोहरा सकते हैं?",
+            "माफ़ करें, क्या आप अपनी बात फिर से कह सकते हैं?",
+            "क्या आप अपनी बात दोहरा सकते हैं?",
+            "माफ़ करें, मुझे समझ नहीं आया|",
+            "माफ़ करें, क्या कहा आपने?",
+            "एक बार फिर से कह सकते हैं?",
+            "क्या कहा आपने?",
+            "एक बार फिर से कहिए?",
+            "मुझे समझ नहीं आया|"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

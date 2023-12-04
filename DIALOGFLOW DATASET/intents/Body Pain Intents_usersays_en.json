@@ -1,0 +1,80 @@
+[
+  {
+    "id": "9ae5b873-f3ef-41b2-8d83-01e4e5079a1e",
+    "data": [
+      {
+        "text": "body",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b5d0250-0e50-40ca-966a-5aaf50c5691d",
+    "data": [
+      {
+        "text": "pain in body",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "758b2f81-4152-4b34-b049-3b6912f6d44f",
+    "data": [
+      {
+        "text": "bodyache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc5a6b2f-c9ce-47d3-acc3-aa92cc9f5a85",
+    "data": [
+      {
+        "text": "body pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a9d95c2-1c77-48d4-a0aa-d76e5a3f4dce",
+    "data": [
+      {
+        "text": "Are there specific herbs for alleviating body ache in Ayurveda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd0dbb4f-2a70-4ae1-ba03-ff3490e94c81",
+    "data": [
+      {
+        "text": "How can Ayurveda help with muscle and joint pain?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

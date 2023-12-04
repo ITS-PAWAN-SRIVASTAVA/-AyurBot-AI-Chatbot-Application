@@ -1,0 +1,47 @@
+{
+  "id": "4191e3e3-3c3c-4b77-9b13-325a29f349c3",
+  "parentId": "04eb96d3-4310-468d-9ef1-fb6a049182c3",
+  "rootParentId": "04eb96d3-4310-468d-9ef1-fb6a049182c3",
+  "name": "Menstrual Disorders - no",
+  "auto": true,
+  "contexts": [
+    "MenstrualDisorders-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MenstrualDisorders.MenstrualDisorders-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To manage menstrual disorders, it\u0027s crucial to maintain a healthy lifestyle. Regular exercise and stress management are beneficial. If symptoms persist, considering hormonal therapy and lifestyle changes might be helpful.In Ayurveda, the formulations Rajarajaeshwari Ras, Kumaryasava are recommended.Ayurvedic pharmacological properties include a Tikta (bitter) taste, Laghu (light) qualities, Ushna (hot) potency, and Katu (pungent) Vipaka."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

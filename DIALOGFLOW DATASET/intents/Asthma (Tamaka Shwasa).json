@@ -1,0 +1,35 @@
+{
+  "id": "83f11f11-3a1d-4fe8-a83e-fa6fdd4f9bc1",
+  "name": "Asthma (Tamaka Shwasa)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Asthma, or Tamaka Shwasa, is managed with bronchodilators, inhaled corticosteroids, and avoiding triggers. Ayurvedic herbs like Vasaka and Licorice, along with formulations like Sitopaladi churna, may support respiratory health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

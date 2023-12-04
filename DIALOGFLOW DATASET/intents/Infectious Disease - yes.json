@@ -1,0 +1,51 @@
+{
+  "id": "e9a18385-605b-4b13-a843-0b3f37235784",
+  "parentId": "48a74282-7870-4d3a-a333-f715c7c079e6",
+  "rootParentId": "48a74282-7870-4d3a-a333-f715c7c079e6",
+  "name": "Infectious Disease - yes",
+  "auto": true,
+  "contexts": [
+    "InfectiousDisease-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InfectiousDisease.InfectiousDisease-yes",
+      "affectedContexts": [
+        {
+          "name": "InfectiousDisease-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What is it? Mention it."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

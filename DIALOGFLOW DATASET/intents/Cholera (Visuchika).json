@@ -1,0 +1,35 @@
+{
+  "id": "abdef897-d19b-4a4b-a3e3-a01cc3f5d0f4",
+  "name": "Cholera (Visuchika)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cholera, or Visuchika, presents with severe diarrhea and vomiting. Rehydration and antibiotics in severe cases are recommended. Ayurvedic guidelines may include oral rehydration salts and supportive care."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "f95a7a01-f081-4882-b1e3-f524979f23f3",
+    "data": [
+      {
+        "text": "नहीं",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "63f1f9d0-ee53-470a-8fa2-f9242befb005",
+    "data": [
+      {
+        "text": "मत करो",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "76f8d035-c412-4703-b5d1-24a3ab5922fe",
+    "data": [
+      {
+        "text": "बिलकुल नहीं",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "9e15f859-fd88-4bcc-a8fb-8b07637ddc3c",
+    "data": [
+      {
+        "text": "जी नहीं",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "bfddb81a-860b-47b3-bf55-5add6981585a",
+    "data": [
+      {
+        "text": "शुक्रिया, लेकिन नहीं",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "06ace90b-23dd-4b02-9c23-e86023afbb3e",
+    "data": [
+      {
+        "text": "कोई दिलचस्पी नहीं",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "e818439e-56f3-4a7a-9925-cfca93dc5a4e",
+    "data": [
+      {
+        "text": "मुझे नहीं लगता",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "a4c9c9cd-7da9-4f2e-b618-961e29bb1bec",
+    "data": [
+      {
+        "text": "मैं नहीं मानती",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  },
+  {
+    "id": "d32d56ba-d730-4163-a0e9-2399367eb451",
+    "data": [
+      {
+        "text": "मुझे नहीं चाहिए",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "hi",
+    "updated": 0
+  }
+]

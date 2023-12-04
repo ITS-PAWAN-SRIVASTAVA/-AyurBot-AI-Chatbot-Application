@@ -1,0 +1,153 @@
+[
+  {
+    "id": "97c08f35-ca18-4555-9dd2-992ff60dc010",
+    "data": [
+      {
+        "text": "asthma ",
+        "userDefined": false
+      },
+      {
+        "text": "Tamaka",
+        "userDefined": false
+      },
+      {
+        "text": " shwasa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31aa8472-9725-4f66-9bdf-b65dfca80836",
+    "data": [
+      {
+        "text": "support respiratory health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b09a409-d3f3-41e8-9e21-7eca0e885a22",
+    "data": [
+      {
+        "text": "respiratory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd4cb4a6-7e84-484c-8179-64607302c6bd",
+    "data": [
+      {
+        "text": "respiratory problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5838c1a-8e2a-487e-a344-5df50bfefa51",
+    "data": [
+      {
+        "text": "tamaka shwasa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e3a81b5-26df-4504-8f16-1bb65353de79",
+    "data": [
+      {
+        "text": "tamaka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a33ec03-0b51-4577-957f-fc0db04b4568",
+    "data": [
+      {
+        "text": "astama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25ec0904-45b7-4cc2-95f1-92b16391bdf0",
+    "data": [
+      {
+        "text": "asthma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0aebc411-c22f-4673-95b6-0628e9b8c7a8",
+    "data": [
+      {
+        "text": "Are there any lifestyle changes to manage asthma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af4a3011-bb34-43a8-9a29-d12d7666c518",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs for respiratory health.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "771d8242-103d-468b-9544-d1b29e3f2aa5",
+    "data": [
+      {
+        "text": "What are the common triggers for asthma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

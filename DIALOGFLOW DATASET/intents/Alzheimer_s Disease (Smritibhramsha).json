@@ -1,0 +1,35 @@
+{
+  "id": "dbc33427-0587-457c-bf4a-74e56e213a19",
+  "name": "Alzheimer\u0027s Disease (Smritibhramsha)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alzheimer\u0027s disease, or Smritibhramsha, is managed with medications like Donepezil and supportive care. Ayurvedic herbs like Brahmi and Ashwagandha, along with formulations like Mandukaparni ghrita, may provide support."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

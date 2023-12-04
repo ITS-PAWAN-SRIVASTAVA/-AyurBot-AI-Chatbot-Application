@@ -1,0 +1,67 @@
+[
+  {
+    "id": "27774e3c-6dc7-460f-8f3d-d1ee1b1a3d24",
+    "data": [
+      {
+        "text": "weight loss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "041b3fe6-9917-4848-bd35-3b32ff76e104",
+    "data": [
+      {
+        "text": "breast pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d2f98c3-ea4a-4494-afae-74dd219563f9",
+    "data": [
+      {
+        "text": "pain in breast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45f2b162-f01d-4840-b18b-430cf444fa17",
+    "data": [
+      {
+        "text": "fatigue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0af5622c-8a7d-4b5f-aef5-fe446209a5ed",
+    "data": [
+      {
+        "text": "unexplained weight loss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

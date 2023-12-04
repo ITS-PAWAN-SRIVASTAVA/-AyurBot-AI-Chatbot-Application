@@ -1,0 +1,35 @@
+{
+  "id": "e1a7dfa1-48e5-4956-b9b7-88a9e3d8c23e",
+  "name": "commoncold (pratishyaya)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pratishyaya, or the common cold, is characterized by symptoms such as runny nose, sneezing, and cough. Ayurvedic herbs like Tulsi and Ginger are beneficial. To prevent it, stay hydrated, get plenty of rest, and avoid exposure to cold."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "9d879b06-2d58-482a-84f2-907c44584a89",
+  "parentId": "48a74282-7870-4d3a-a333-f715c7c079e6",
+  "rootParentId": "48a74282-7870-4d3a-a333-f715c7c079e6",
+  "name": "Infectious Disease - no",
+  "auto": true,
+  "contexts": [
+    "InfectiousDisease-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InfectiousDisease.InfectiousDisease-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can try a home remedy by mixing turmeric in warm milk. Turmeric has anti-inflammatory properties and can help relieve symptoms. Additionally, rest, plenty of fluids, and over-the-counter FEVER medications like Acetaminophen and Ibuprofen are recommended."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

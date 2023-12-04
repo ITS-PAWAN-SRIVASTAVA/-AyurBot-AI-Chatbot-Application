@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2cbb69e9-cba5-417f-8bb9-a0c7efdb1ed2",
+    "data": [
+      {
+        "text": "low platelet count",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c82def6a-6f3a-4a3e-b7db-ae6050d7cada",
+    "data": [
+      {
+        "text": "sudden high fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00fe8501-2171-43c8-9afb-3e0292046c40",
+    "data": [
+      {
+        "text": "i got dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bff4f68a-fdf5-46b5-ae5b-5b4ba4fac8f2",
+    "data": [
+      {
+        "text": "i have dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "201ae258-67d5-41b0-ae3d-efecb8fd3985",
+    "data": [
+      {
+        "text": "I have symptoms of Dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

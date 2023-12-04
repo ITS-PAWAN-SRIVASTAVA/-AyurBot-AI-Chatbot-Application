@@ -1,0 +1,35 @@
+{
+  "id": "f1289f15-b43d-41a2-8c44-3380cfa7b1ed",
+  "name": "Rheumatoid Arthritis (Amavata)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Rheumatoid Arthritis, or Amavata, can be managed with regular exercise, hot and cold compress, and medications. Ayurvedic herbs like Turmeric and Guggul, along with formulations like Yograj guggulu, may provide relief."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "30625937-6eb4-4dd1-935f-c12b5814fa20",
+  "name": "Body Pain Intents",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ayurveda recommends gentle self-massage with warm sesame oil (abhyanga) to relieve body pain. You may also consider herbal supplements like ashwagandha or turmeric, but it\u0027s advisable to consult with an Ayurvedic practitioner.",
+            "For muscle and joint pain, Ayurveda suggests lifestyle modifications, such as maintaining a regular exercise routine and incorporating anti-inflammatory herbs like boswellia or guggulu. However, personalized guidance is essential, so consulting with an Ayurvedic expert is recommended.",
+            "Herbs like ginger and ashwagandha are known for their anti-inflammatory properties and can be beneficial for body ache. It\u0027s important to determine your unique constitution (dosha) for personalized recommendations. Consulting with an Ayurvedic practitioner can provide tailored advice."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

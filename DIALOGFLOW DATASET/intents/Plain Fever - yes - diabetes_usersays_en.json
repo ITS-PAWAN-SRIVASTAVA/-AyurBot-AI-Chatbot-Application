@@ -1,0 +1,28 @@
+[
+  {
+    "id": "fb71a28f-6d7a-436a-ba92-ea59589525dc",
+    "data": [
+      {
+        "text": "I have fever with diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d33aff4-9ec2-4bfc-a64c-6e524030d011",
+    "data": [
+      {
+        "text": "Fever with Diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

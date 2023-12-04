@@ -1,0 +1,158 @@
+[
+  {
+    "id": "feccc1fc-e7a0-4f79-80ad-fd55574ce38d",
+    "data": [
+      {
+        "text": "headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33213996-5fc2-4f92-9079-2608df2506a3",
+    "data": [
+      {
+        "text": "headache because of stress",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4044b4a2-1f1b-460f-823d-0f8d5a683b38",
+    "data": [
+      {
+        "text": "ananta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f423fd4e-7f4d-4681-a4b6-dc2f96e4c406",
+    "data": [
+      {
+        "text": "anantavat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92eb2749-8400-4510-b58f-1c2dddfe4613",
+    "data": [
+      {
+        "text": "Anantavata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1d8d152-66bb-43f7-9ff0-05ca13b3adb4",
+    "data": [
+      {
+        "text": "migraine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a38df580-a3b0-42f9-ae32-a6ecd5bcb648",
+    "data": [
+      {
+        "text": "migrane",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30bf253f-2659-48a9-a4f0-c73b347cc560",
+    "data": [
+      {
+        "text": "severe head",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bbc08f6-7adb-4b72-94d4-a0ffc07912b3",
+    "data": [
+      {
+        "text": "severe headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76fb122f-f3cc-4b32-901b-4067834612e0",
+    "data": [
+      {
+        "text": "Can you suggest a remedy for nausea associated with migraines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4c94702-e2b8-4055-b916-da74294611ac",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs for managing severe headaches.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed7a1c8a-7a27-4e6a-8049-eddf1019844f",
+    "data": [
+      {
+        "text": "What precautions should I take to avoid migraines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

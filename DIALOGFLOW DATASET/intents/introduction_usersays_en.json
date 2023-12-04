@@ -1,0 +1,41 @@
+[
+  {
+    "id": "d23be127-2bae-4ccd-b045-8e9a3bed8fb9",
+    "data": [
+      {
+        "text": "Introduce yourself.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "851113cf-15eb-4852-9c7f-96c1956dcf3d",
+    "data": [
+      {
+        "text": "What can you do for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a98b409c-bd78-4805-afc5-e22daaebf53e",
+    "data": [
+      {
+        "text": "Tell me about AyurBot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

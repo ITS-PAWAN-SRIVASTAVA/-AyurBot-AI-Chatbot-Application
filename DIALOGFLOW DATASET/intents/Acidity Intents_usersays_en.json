@@ -1,0 +1,93 @@
+[
+  {
+    "id": "fac58028-471e-4eb3-a70a-dc0f49bafeeb",
+    "data": [
+      {
+        "text": "oilyfood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b119457f-bdc8-458d-bca2-d307a6e9e338",
+    "data": [
+      {
+        "text": "aciditystomach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "153fbd25-9a79-4f73-952b-47dc711d088e",
+    "data": [
+      {
+        "text": "acidity",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bcb4e0a7-52ff-4edb-bb74-f07d0cb8a6aa",
+    "data": [
+      {
+        "text": "acid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24cb0a11-c8c3-440d-86be-5b4e7030aea4",
+    "data": [
+      {
+        "text": "Are there specific foods I should avoid to prevent acidity in Ayurveda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "315b716d-bb37-448d-acb8-d769d99b3eb8",
+    "data": [
+      {
+        "text": "How can I manage acid reflux through Ayurveda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "532febe7-371a-4ed0-b690-633b50a5de86",
+    "data": [
+      {
+        "text": "I often suffer from acidity. What Ayurvedic solutions do you recommend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

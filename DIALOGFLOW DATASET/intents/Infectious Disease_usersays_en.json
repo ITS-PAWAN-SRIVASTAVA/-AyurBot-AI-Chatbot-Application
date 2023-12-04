@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c9592308-bd7d-495d-9cc5-69989e5191e3",
+    "data": [
+      {
+        "text": "mosquito disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04beb384-9da2-4cbf-ad0a-fc1294edd751",
+    "data": [
+      {
+        "text": "i think i have got infected by mosquitoes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61f2ebdf-1c07-4281-a0fd-e49eace25a1e",
+    "data": [
+      {
+        "text": "mosquitoes disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcdfa9af-2159-4b7e-a542-5991cdf6ab86",
+    "data": [
+      {
+        "text": "i think mosquito bit me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a48a12f1-2178-45d4-8f67-3c9eef9a52b5",
+    "data": [
+      {
+        "text": "I think i have got disease from misquitoes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

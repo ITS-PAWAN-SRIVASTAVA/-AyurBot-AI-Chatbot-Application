@@ -1,0 +1,38 @@
+{
+  "id": "9f1013dd-a8fb-4e29-b765-c62b77d64a99",
+  "name": "greetings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello!",
+            "Hello! How can I assist you today?",
+            "Hello! Welcome to the AyurvedaBot. How can I assist you today?",
+            "Hey! Welcome to the AyurvedaBot."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

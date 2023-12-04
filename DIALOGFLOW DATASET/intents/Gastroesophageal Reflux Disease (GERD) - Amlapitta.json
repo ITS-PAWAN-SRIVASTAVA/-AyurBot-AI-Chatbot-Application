@@ -1,0 +1,35 @@
+{
+  "id": "ecf9dfdd-e4b6-4df8-b283-c761440369b5",
+  "name": "Gastroesophageal Reflux Disease (GERD) - Amlapitta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "GERD, or Amlapitta, is managed with antacids, proton pump inhibitors, and lifestyle changes. Ayurvedic herbs like Aloe vera and Licorice, along with formulations like Avipattikar churna, may support digestive health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

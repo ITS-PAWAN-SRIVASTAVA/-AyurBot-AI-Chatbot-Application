@@ -1,0 +1,54 @@
+[
+  {
+    "id": "7b801fd4-d62f-41f5-94d4-7caae6d33c98",
+    "data": [
+      {
+        "text": "cancer of breast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfc01e24-9c60-48fa-8934-42c36089a82a",
+    "data": [
+      {
+        "text": "breast cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "068b1164-00a0-42d7-9423-65202c757d50",
+    "data": [
+      {
+        "text": "I have breast cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57008838-76e8-4f6e-827d-c9486de5426c",
+    "data": [
+      {
+        "text": "I have symptoms of Breast Cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

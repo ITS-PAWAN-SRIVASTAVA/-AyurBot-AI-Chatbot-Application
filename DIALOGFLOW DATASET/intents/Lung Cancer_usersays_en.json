@@ -1,0 +1,41 @@
+[
+  {
+    "id": "50c4a019-66d6-4863-8ef8-470d582590bd",
+    "data": [
+      {
+        "text": "i have symptoms for lung cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee8508e0-5b11-45d7-bedf-13f1a301d489",
+    "data": [
+      {
+        "text": "i have lung cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78700f79-7e4e-411c-8b5a-764d33bca590",
+    "data": [
+      {
+        "text": "I have symptoms of Lung Cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

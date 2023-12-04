@@ -1,0 +1,47 @@
+{
+  "id": "fb5fbfe8-3509-4394-b1e1-9a8f8eeb06ec",
+  "parentId": "2c16ac13-1a09-419e-91f4-fda6053c98c0",
+  "rootParentId": "2c16ac13-1a09-419e-91f4-fda6053c98c0",
+  "name": "Prostate Cancer - no",
+  "auto": true,
+  "contexts": [
+    "ProstateCancer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ProstateCancer.ProstateCancer-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For Prostate Cancer, early detection is crucial. Consult with a healthcare professional who may recommend treatments such as surgery, chemotherapy, or radiation therapy."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

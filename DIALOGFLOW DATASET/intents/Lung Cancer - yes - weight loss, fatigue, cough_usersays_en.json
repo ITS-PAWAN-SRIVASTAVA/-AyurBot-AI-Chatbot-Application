@@ -1,0 +1,41 @@
+[
+  {
+    "id": "01d52d11-628f-4802-aae5-a7b42ada1e3e",
+    "data": [
+      {
+        "text": "persistant cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16806501-13ef-432b-b98f-aaccff202f76",
+    "data": [
+      {
+        "text": "fatigue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86d62e7f-6c3a-4e16-8007-bf38265ac3ff",
+    "data": [
+      {
+        "text": "unexplained weight loss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

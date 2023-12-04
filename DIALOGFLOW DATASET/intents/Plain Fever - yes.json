@@ -1,0 +1,51 @@
+{
+  "id": "d12c415e-3266-4c6c-9926-60c91987f3d9",
+  "parentId": "f2c205cb-6528-4ceb-b7ab-298e32ed0e7b",
+  "rootParentId": "f2c205cb-6528-4ceb-b7ab-298e32ed0e7b",
+  "name": "Plain Fever - yes",
+  "auto": true,
+  "contexts": [
+    "PlainFever-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PlainFever.PlainFever-yes",
+      "affectedContexts": [
+        {
+          "name": "PlainFever-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What is it? Mention it."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

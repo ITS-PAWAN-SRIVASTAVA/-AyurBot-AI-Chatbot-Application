@@ -1,0 +1,35 @@
+{
+  "id": "c6b2071f-c086-421a-8f8f-9ac9bed9e117",
+  "name": "Polycystic Ovary Syndrome (PCOS) (Granthsada Yonivyapad)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "PCOS, or Granthsada Yonivyapad, presents with symptoms like irregular menstrual cycles. Lifestyle modifications and hormonal therapy are used. Ayurvedic herbs like Shatavari and Ashoka, along with formulations like Chandraprabha Vati, may support hormonal balance."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

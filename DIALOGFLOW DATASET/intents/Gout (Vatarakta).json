@@ -1,0 +1,35 @@
+{
+  "id": "ac6bb812-4c70-49bd-8772-4fdcbb2e0ae3",
+  "name": "Gout (Vatarakta)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Gout, or Vatarakta, presents with symptoms like joint pain and swelling. Medications like Colchicine and lifestyle changes are used. Ayurvedic herbs like Guduchi and Triphala, along with formulations like Punarnavadi Kwath, may support joint health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

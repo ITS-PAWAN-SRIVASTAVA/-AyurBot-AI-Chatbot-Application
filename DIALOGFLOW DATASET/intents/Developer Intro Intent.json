@@ -1,0 +1,35 @@
+{
+  "id": "33d8e006-030a-49d8-bf65-2354cfce0b6d",
+  "name": "Developer Intro Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I was developed by Team AyurvedaBot, I\u0027ve been trained on a diverse range of data sources to understand and respond to various queries related to Ayurveda. My responses are generated based on patterns and information present in the data I was trained on."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

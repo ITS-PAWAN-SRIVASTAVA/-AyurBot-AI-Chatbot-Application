@@ -1,0 +1,41 @@
+[
+  {
+    "id": "651dc18d-164a-44bc-9f92-74ba19588cca",
+    "data": [
+      {
+        "text": "i think i have prostate cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2754cf4-6ee2-455b-be3b-a1f036bd2078",
+    "data": [
+      {
+        "text": "I have prostate cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3143d10f-3e43-4213-9294-6994ecaad6bf",
+    "data": [
+      {
+        "text": "I have symptoms of Prostate Cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

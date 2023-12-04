@@ -1,0 +1,110 @@
+[
+  {
+    "id": "82c54cf7-7636-41b1-b9f4-63b208c0d698",
+    "data": [
+      {
+        "text": "Pushyanuga Churna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5065538-5f9f-40ed-8e93-52786714ad47",
+    "data": [
+      {
+        "text": "infertility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23fa06cc-be1d-44a5-a7c6-63630eed0c70",
+    "data": [
+      {
+        "text": "endometriosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af029efa-17e0-427c-86ec-26b9e5addbfa",
+    "data": [
+      {
+        "text": "yoni",
+        "userDefined": false
+      },
+      {
+        "text": " dosha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c12b8b5-8e3e-4415-a262-01c1f52aed77",
+    "data": [
+      {
+        "text": "endo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "712ca456-f148-4d3b-9aee-88dfcf1b2dbc",
+    "data": [
+      {
+        "text": "How is endometriosis managed in Ayurveda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0855a7c9-8178-4f5d-901d-f09081221dee",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs for gynecological health.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97b8798f-7468-41d9-93d8-74b8a380b661",
+    "data": [
+      {
+        "text": "What are the common symptoms of endometriosis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

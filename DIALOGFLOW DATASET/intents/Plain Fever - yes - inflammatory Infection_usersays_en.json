@@ -1,0 +1,41 @@
+[
+  {
+    "id": "4f7c55b4-f71c-4442-a643-2a22a69eafc7",
+    "data": [
+      {
+        "text": "fever with inflammatory",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9b0d5b8-69f4-4379-ae3d-a07dbfaec6da",
+    "data": [
+      {
+        "text": "fever with inflammatory infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72f51049-aa87-4439-a2d4-3cc01aa85473",
+    "data": [
+      {
+        "text": "I have a fever with an inflammatory infection.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

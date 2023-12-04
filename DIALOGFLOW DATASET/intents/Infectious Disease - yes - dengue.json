@@ -1,0 +1,52 @@
+{
+  "id": "9c566825-6003-4573-b584-0b9de493eb4c",
+  "parentId": "e9a18385-605b-4b13-a843-0b3f37235784",
+  "rootParentId": "48a74282-7870-4d3a-a333-f715c7c079e6",
+  "name": "Infectious Disease - yes - dengue",
+  "auto": true,
+  "contexts": [
+    "InfectiousDisease-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InfectiousDisease.InfectiousDisease-yes.InfectiousDisease-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "InfectiousDisease-yes-dengue-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Papaya Leaf: Papaya leaf extract is a traditional remedy for dengue fever. It is believed to help increase platelet count.\n\nTulsi (Holy Basil): Tulsi is known for its immune-boosting properties. It may help in managing symptoms associated with dengue.\n\nAmla (Indian Gooseberry): Amla is rich in vitamin C and antioxidants, which can support the immune system during dengue."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

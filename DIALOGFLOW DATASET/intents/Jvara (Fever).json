@@ -1,0 +1,35 @@
+{
+  "id": "2f813cbc-ec00-466e-8969-fb26c8881f3e",
+  "name": "Jvara (Fever)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Jvara, or fever, can be managed with rest, staying hydrated, and monitoring body temperature. Ayurvedic herbs like Tulsi and Ginger, along with formulations like Tribhuvankirti Ras, may be helpful. Jvara is characterized by Rasa - Katu, Guna - Laghu, Virya - Ushna, and Vipaka - Katu."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

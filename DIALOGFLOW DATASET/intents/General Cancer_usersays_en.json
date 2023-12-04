@@ -1,0 +1,54 @@
+[
+  {
+    "id": "35cd8fdf-50b1-4966-a201-c33cbf410f9b",
+    "data": [
+      {
+        "text": "i think i have cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f60c631-141b-4dc9-95a5-689212bf6e72",
+    "data": [
+      {
+        "text": "i got cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7acedadc-fee2-4884-9f4c-518c846b6902",
+    "data": [
+      {
+        "text": "I have cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0548a7b1-9fcd-488b-9864-4870dab5faf2",
+    "data": [
+      {
+        "text": "have symptoms of Cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "id": "176bf406-acc5-4687-9f9c-9fe57c3cdba5",
+  "name": "Menstrual Disorders (Rajaswala Dosha)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Menstrual Disorders, or Rajaswala Dosha, may include irregular periods and painful cramps. Hormonal therapy and lifestyle changes are used. Ayurvedic herbs like Ashoka and Shatavari, along with formulations like Rajarajaeshwari Ras, may support reproductive health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

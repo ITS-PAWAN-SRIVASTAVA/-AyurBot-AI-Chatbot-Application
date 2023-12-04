@@ -1,0 +1,35 @@
+{
+  "id": "bb858407-ea75-4220-8801-ece3ef363ba0",
+  "name": "Endometriosis (Yoni Dosha)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Endometriosis, or Yoni Dosha, presents with symptoms like pelvic pain and infertility. Pain management, hormone therapy, and surgery are common treatments. Ayurvedic herbs like Ashoka and Lodhra, along with formulations like Pushyanuga Churna, may support gynecological health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

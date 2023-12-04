@@ -1,0 +1,51 @@
+{
+  "id": "454f0eb1-4030-4bf8-95fd-cb3b5be9a386",
+  "parentId": "956d651b-6b76-48ba-9d80-e817c510789a",
+  "rootParentId": "956d651b-6b76-48ba-9d80-e817c510789a",
+  "name": "Lung Cancer - yes",
+  "auto": true,
+  "contexts": [
+    "LungCancer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "LungCancer.LungCancer-yes",
+      "affectedContexts": [
+        {
+          "name": "LungCancer-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What other symptoms are you facing?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,196 @@
+[
+  {
+    "id": "691a6478-0335-4247-b2f5-efeadbf52c7e",
+    "data": [
+      {
+        "text": "kampavat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b82da4d8-90f1-4bb9-867d-df4a5742d230",
+    "data": [
+      {
+        "text": "neurological health",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5109cd6f-a818-4c23-b71d-554710901b99",
+    "data": [
+      {
+        "text": "Maharasnadi Kwath",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2beee88a-acfd-4b31-b002-96620320046c",
+    "data": [
+      {
+        "text": "ropinirole",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cae7ad59-03ff-4494-ada0-e58ec0b80ef1",
+    "data": [
+      {
+        "text": "levodopa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67a1405d-fc5a-470f-ada1-0ebe7ec37ffa",
+    "data": [
+      {
+        "text": "stiffness",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c00a7eb8-b3c1-48b6-878c-2dd043b3d310",
+    "data": [
+      {
+        "text": "tremors",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "148d2641-4a60-436a-9ba2-b90ca183e281",
+    "data": [
+      {
+        "text": "parkinson\u0027s",
+        "userDefined": false
+      },
+      {
+        "text": " disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe9ede6a-8927-4653-a02e-4e6efa1c34e7",
+    "data": [
+      {
+        "text": "kampavata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f80e031c-329d-4894-ae27-df87862c5f10",
+    "data": [
+      {
+        "text": "parkinson",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c121d45-94fc-4f32-b3b7-3ca45c393438",
+    "data": [
+      {
+        "text": "parkin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae635704-e552-4fc0-ae7a-4a0a85e43f81",
+    "data": [
+      {
+        "text": "Are there specific exercises for ",
+        "userDefined": false
+      },
+      {
+        "text": "Parkinson\u0027s",
+        "userDefined": false
+      },
+      {
+        "text": " patients?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36be4456-a1a9-462f-a3f5-a900c821a323",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs for neurological health.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d48ef15-08a8-42c1-815f-b15c49f1cfc0",
+    "data": [
+      {
+        "text": "What are the common symptoms of Parkinson\u0027s disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "eecff62e-41bc-4807-b1be-33479cf96cdc",
+  "name": "Immunity Boosting Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To enhance immunity, Ayurveda recommends immune-boosting herbs like Amalaki and Ashwagandha. Formulations like Chyawanprash, a blend of various herbs and honey, are commonly used to strengthen the immune system and promote overall health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

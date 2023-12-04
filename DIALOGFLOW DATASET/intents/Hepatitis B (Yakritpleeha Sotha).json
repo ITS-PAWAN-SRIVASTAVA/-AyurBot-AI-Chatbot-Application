@@ -1,0 +1,35 @@
+{
+  "id": "6613a7f5-b39e-49b5-9f0f-4f6672e2d456",
+  "name": "Hepatitis B (Yakritpleeha Sotha)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hepatitis B, or Yakritpleeha Sotha, presents with symptoms like jaundice and abdominal pain. Antiviral medications like Entecavir and Tenofovir are used. Ayurvedic herbs like Bhumyamalaki and Kutki, along with formulations like Arogyavardhini Vati, may support liver health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

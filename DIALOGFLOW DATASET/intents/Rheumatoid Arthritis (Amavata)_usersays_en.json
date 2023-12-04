@@ -1,0 +1,166 @@
+[
+  {
+    "id": "c04a3a0e-7508-4225-b6cc-87acfad8e501",
+    "data": [
+      {
+        "text": "joint pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a09ef914-e5db-4d50-8b8f-aa27660ce2c7",
+    "data": [
+      {
+        "text": "jointpain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "206bbe9c-17c0-4675-95e0-53b92ced4880",
+    "data": [
+      {
+        "text": "yograj",
+        "userDefined": false
+      },
+      {
+        "text": " guggulu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e316b65-624e-4efd-afa7-9f3c1a2f7b48",
+    "data": [
+      {
+        "text": "Yograj",
+        "userDefined": false
+      },
+      {
+        "text": " guggul",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89392ad2-5d03-4276-8203-0c6908815a27",
+    "data": [
+      {
+        "text": "amavata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "256a1910-4804-45b3-a7e4-ee001b5723ce",
+    "data": [
+      {
+        "text": "amavat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e287627-87b9-46c0-9031-2f462bb0d2cd",
+    "data": [
+      {
+        "text": "rheumatoid arthritis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b406e370-81fe-48d4-8468-12c3550e90ff",
+    "data": [
+      {
+        "text": "arthritis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a21b2210-b3f4-4cd7-aa44-06b49e6f8dbe",
+    "data": [
+      {
+        "text": "rheumatoid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30ffc13a-fa22-450c-add5-917b30d768e5",
+    "data": [
+      {
+        "text": "Are there specific dietary precautions for arthritis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f06d337-2cd5-44b4-8e98-8ad5b00fa8f0",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs for joint pain.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91adf9fb-7958-46f4-b366-ba3c0ee2dd31",
+    "data": [
+      {
+        "text": "What exercises can help manage rheumatoid arthritis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

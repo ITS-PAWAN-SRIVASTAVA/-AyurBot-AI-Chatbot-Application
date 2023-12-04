@@ -1,0 +1,51 @@
+{
+  "id": "dd7cfb7b-f247-499a-ba11-0d6978abedb0",
+  "parentId": "04eb96d3-4310-468d-9ef1-fb6a049182c3",
+  "rootParentId": "04eb96d3-4310-468d-9ef1-fb6a049182c3",
+  "name": "Menstrual Disorders - yes",
+  "auto": true,
+  "contexts": [
+    "MenstrualDisorders-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MenstrualDisorders.MenstrualDisorders-yes",
+      "affectedContexts": [
+        {
+          "name": "MenstrualDisorders-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What is it? Mention it."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

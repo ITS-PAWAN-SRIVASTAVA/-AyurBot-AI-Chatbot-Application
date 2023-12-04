@@ -1,0 +1,36 @@
+{
+  "id": "970cdbd4-679b-47d4-9764-704efb634a31",
+  "name": "Chest Pain Intents",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ayurveda may recommend herbs like arjuna or hawthorn for heart health. However, chest pain is a serious symptom, and it\u0027s important to consult with a healthcare professional for a proper diagnosis and treatment plan.",
+            "While Ayurveda promotes heart health through lifestyle practices like maintaining a balanced diet and engaging in regular exercise, chest pain requires urgent medical attention. Please seek help from a healthcare professional immediately."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

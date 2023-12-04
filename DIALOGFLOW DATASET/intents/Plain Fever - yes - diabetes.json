@@ -1,0 +1,47 @@
+{
+  "id": "771b5d6d-052a-449f-b6a1-aef71388ebe6",
+  "parentId": "d12c415e-3266-4c6c-9926-60c91987f3d9",
+  "rootParentId": "f2c205cb-6528-4ceb-b7ab-298e32ed0e7b",
+  "name": "Plain Fever - yes - diabetes",
+  "auto": true,
+  "contexts": [
+    "PlainFever-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PlainFever.PlainFever-yes.PlainFever-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For fever with diabetes, Ayurvedic medicine \u0027Punarvadi\u0027 is recommended. It is important to manage both the fever and diabetes simultaneously. Ensure to monitor your blood sugar levels regularly and follow a balanced diet. If symptoms persist, consult with a healthcare professional."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

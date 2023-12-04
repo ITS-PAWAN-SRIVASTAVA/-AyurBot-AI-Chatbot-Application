@@ -1,0 +1,67 @@
+[
+  {
+    "id": "71bdae25-8a04-4068-9a9a-bc529b3e3ee4",
+    "data": [
+      {
+        "text": "stomach pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0b54330-cfdb-4cda-91ba-286a1e8b0978",
+    "data": [
+      {
+        "text": "stomach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c98d3c54-abfd-488a-aaed-4e62d510be2e",
+    "data": [
+      {
+        "text": "Are there any Ayurvedic remedies for stomach discomfort?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57f022c7-ef45-414a-828b-fef501f3a19d",
+    "data": [
+      {
+        "text": "How can I relieve stomach pain naturally?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a9bfcbf-6727-4697-8a3e-7f74eb0e8453",
+    "data": [
+      {
+        "text": "I have stomach pain. What could be the reason?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

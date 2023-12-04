@@ -1,0 +1,35 @@
+{
+  "id": "7b705da5-dd6d-4d01-a951-48a1314f2104",
+  "name": "Ayurvedic Diet Principles",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ayurvedic diet is based on your unique constitution or \u0027dosha.\u0027 It includes fresh, seasonal foods, mindful eating, and avoiding incompatible food combinations for optimal health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

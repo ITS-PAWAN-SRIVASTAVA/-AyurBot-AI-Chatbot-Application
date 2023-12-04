@@ -1,0 +1,37 @@
+{
+  "id": "11c55d18-e76e-44ec-b3fe-5a3620255c7f",
+  "name": "Stomach Pain Intents",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Stomach pain can be caused by various factors like indigestion, gas, or gastritis. It\u0027s recommended to avoid heavy, oily foods and try drinking ginger tea for relief.",
+            "To relieve stomach pain naturally, you can try sipping warm water throughout the day and consuming easily digestible foods. However, if the pain persists, it\u0027s advisable to consult with an Ayurvedic practitioner.",
+            "Certainly! Ayurveda suggests herbal remedies like peppermint and fennel tea for stomach discomfort. However, individual recommendations may vary, so consulting with an Ayurvedic expert for personalized advice is recommended."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

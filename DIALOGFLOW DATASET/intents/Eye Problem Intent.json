@@ -1,0 +1,36 @@
+{
+  "id": "1c9f5c83-fc7c-4616-a1dd-21a802e3b640",
+  "name": "Eye Problem Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ayurveda suggests promoting eye health with Triphala, Amla, Ghee, Saffron, Aniseed, and Rose Water. Triphala\u0027s antioxidants detoxify, while Amla\u0027s vitamin C benefits vision. Ghee aids lubrication, saffron combats inflammation, aniseed improves eyesight, and rose water soothes. Consult a healthcare professional for personalized advice."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

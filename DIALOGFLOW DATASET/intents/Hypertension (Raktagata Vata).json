@@ -1,0 +1,35 @@
+{
+  "id": "446ae7f8-72d4-4550-8627-333b4a804291",
+  "name": "Hypertension (Raktagata Vata)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hypertension, or Raktagata Vata, can be managed with lifestyle modifications such as maintaining a healthy weight, reducing sodium intake, and regular exercise. Ayurvedic herbs like Arjuna and Ashwagandha, along with formulations like Sarpagandha Ghan Vati, may help regulate blood pressure."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

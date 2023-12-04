@@ -1,0 +1,35 @@
+{
+  "id": "f9b959f9-5935-4780-a3cc-1aae3e4762ef",
+  "name": "Influenza (Sannipata Jvara)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Influenza, or Sannipata Jvara, exhibits symptoms like fever, body aches, and fatigue. Ayurvedic herbs such as Ashwagandha and Echinacea, along with formulations like Amritarishta, may provide relief. Rest and staying hydrated are crucial for managing fatigue."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

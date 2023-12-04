@@ -1,0 +1,35 @@
+{
+  "id": "f63347ce-fc03-41a7-aa31-ff018c0f4ff7",
+  "name": "Migraine (Anantavata)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Migraine, or Anantavata, presents symptoms like severe headaches and nausea. Ayurvedic herbs like Brahmi and Shankhpushpi can help. Precautions include avoiding triggers like stress and certain foods, maintaining a regular sleep schedule, and practicing relaxation techniques."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

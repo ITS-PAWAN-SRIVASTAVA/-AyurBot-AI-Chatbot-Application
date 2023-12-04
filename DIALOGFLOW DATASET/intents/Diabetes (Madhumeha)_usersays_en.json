@@ -1,0 +1,158 @@
+[
+  {
+    "id": "52e72683-1a28-4ff4-a907-6300bbad7da0",
+    "data": [
+      {
+        "text": "bloodsugar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7732ca45-7ad7-4846-8024-3ec63edaa7fa",
+    "data": [
+      {
+        "text": "regular blood sugar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "925feeba-8a4f-48b7-9343-6bafa01e1ab7",
+    "data": [
+      {
+        "text": "sugarlevel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1b571fc-e9e2-4fd5-9930-15ab56b9a39b",
+    "data": [
+      {
+        "text": "diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b8276ba-ca2a-47ea-878c-eae7cf8f8d6c",
+    "data": [
+      {
+        "text": "madhu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee46b9f8-e979-4cb3-b5da-f21c92757fce",
+    "data": [
+      {
+        "text": "madhunashini tablet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c644ef1-dfd4-42a6-ae20-a85ba41b46ec",
+    "data": [
+      {
+        "text": "madhunashini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e529f7d-bea8-4771-9a2f-b400d87d56ff",
+    "data": [
+      {
+        "text": "diabetesmadhu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cc7e242-1443-484d-a329-5de7f4a02ecc",
+    "data": [
+      {
+        "text": "madhumeha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1226726f-8f18-4eb4-8d9d-bfefce3805f0",
+    "data": [
+      {
+        "text": "How can I modify my diet to control diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2564fb7d-da76-4e63-af0a-4cefc0708d6f",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs that can help regulate blood sugar levels.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8607da13-5ade-4320-af36-9f2cfe35f97f",
+    "data": [
+      {
+        "text": "What are the long-term precautions for managing diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

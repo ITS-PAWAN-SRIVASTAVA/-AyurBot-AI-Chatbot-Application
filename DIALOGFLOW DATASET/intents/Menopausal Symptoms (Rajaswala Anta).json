@@ -1,0 +1,35 @@
+{
+  "id": "1506a0bb-39c8-45a8-ba55-d1e020098914",
+  "name": "Menopausal Symptoms (Rajaswala Anta)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Menopausal Symptoms, or Rajaswala Anta, include hot flashes and mood swings. Hormone replacement therapy and lifestyle modifications are used. Ayurvedic herbs like Shatavari and Ashwagandha, along with formulations like Maha Yogaraj Guggulu, may support women during menopause."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

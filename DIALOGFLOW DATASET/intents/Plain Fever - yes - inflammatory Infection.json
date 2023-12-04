@@ -1,0 +1,47 @@
+{
+  "id": "435049f6-8fb8-49dc-99a4-83bf2dff2439",
+  "parentId": "d12c415e-3266-4c6c-9926-60c91987f3d9",
+  "rootParentId": "f2c205cb-6528-4ceb-b7ab-298e32ed0e7b",
+  "name": "Plain Fever - yes - inflammatory Infection",
+  "auto": true,
+  "contexts": [
+    "PlainFever-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PlainFever.PlainFever-yes.PlainFever-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "If you have a fever with an inflammatory infection, consider Ayurvedic medicine \u0027punarnavadi.\u0027 This formulation, along with rest and proper care, may help alleviate symptoms. Ensure to stay hydrated and follow other precautions."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

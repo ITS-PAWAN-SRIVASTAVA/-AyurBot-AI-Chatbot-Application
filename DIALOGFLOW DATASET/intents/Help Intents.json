@@ -1,0 +1,38 @@
+{
+  "id": "f10a4e2e-7107-4961-9053-b7fbb1d00b2b",
+  "name": "Help Intents",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can provide information on various diseases, their cures, and suggest drugs and formulations. Feel free to ask!",
+            "You can start by asking about Ayurvedic basics or any specific topic you\u0027re interested in. For example, you can inquire about Ayurvedic principles, herbs, or common health concerns.",
+            "I can provide information on Ayurvedic practices, herbs, diseases, and more. If you have a specific topic in mind, just ask, and I\u0027ll do my best to assist you.",
+            "Of course! I\u0027m here to help. What information are you looking for or what specific questions do you have?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "0dce2c21-09de-4e20-9497-d4ad163ff38b",
+  "parentId": "dd7cfb7b-f247-499a-ba11-0d6978abedb0",
+  "rootParentId": "04eb96d3-4310-468d-9ef1-fb6a049182c3",
+  "name": "Menstrual Disorders - yes - Amenorrhea",
+  "auto": true,
+  "contexts": [
+    "MenstrualDisorders-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MenstrualDisorders.MenstrualDisorders-yes.MenstrualDisorders-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For Amenorrhea, which involves the absence of menstrual periods, excessive bleeding, painful cramps, or irregular cycles, consider these Ayurvedic recommendations: Ayurvedic herbs like Ashoka and Shatavari can be beneficial for your condition. Formulations like Rajarajaeshwari Ras and Kumaryasava are commonly suggested in Ayurveda.These recommendations are sourced from ancient Ayurvedic texts like Charaka Samhita and Sushruta Samhita. A commonly used synonym for Amenorrhea in Ayurveda is \u0027Artavakshaya\u0027. For relief, you might consider Hormone replacement therapy and Fertility medications as suggested drugs. Ayurvedic pharmacological properties include a Madhura (sweet) taste, Snigdha (unctuous) qualities, Shita (cold) potency, and Madhura (sweet) Vipaka."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

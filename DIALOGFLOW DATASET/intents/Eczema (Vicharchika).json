@@ -1,0 +1,35 @@
+{
+  "id": "c6b46ee7-5536-496f-9a3b-ffb5545dea85",
+  "name": "Eczema (Vicharchika)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Eczema, or Vicharchika, is managed with topical corticosteroids and immunosuppressants. Ayurvedic herbs like Neem and Turmeric, along with formulations like Mahamarichyadi Taila, may support skin health."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

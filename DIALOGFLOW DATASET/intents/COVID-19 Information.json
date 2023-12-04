@@ -1,0 +1,35 @@
+{
+  "id": "eaba9341-53f4-4d60-befb-0ac8d4bfe933",
+  "name": "COVID-19 Information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ayurveda suggests herbs like Tulsi and Ashwagandha to boost immunity. However, it\u0027s crucial to follow medical advice, get vaccinated, and adhere to recommended safety measures for COVID-19 prevention."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

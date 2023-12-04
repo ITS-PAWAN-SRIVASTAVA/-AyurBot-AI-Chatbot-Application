@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ea0082b0-1e86-4ade-90be-f3672d86ff17",
+    "data": [
+      {
+        "text": "skin rash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b007eb18-3e1e-4651-b89a-707eaf038950",
+    "data": [
+      {
+        "text": "joint swelling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4766b4bd-7de0-4cbf-8c10-2015c7e646ab",
+    "data": [
+      {
+        "text": "i have chikanguniya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03e58891-77e7-4d0e-97b1-3046aeb405d2",
+    "data": [
+      {
+        "text": "i think i have ",
+        "userDefined": false
+      },
+      {
+        "text": "chikanguniya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25480a96-f30c-481e-90dc-032fa6694912",
+    "data": [
+      {
+        "text": "i think i have chikungunya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa7ef0b2-9498-4203-b4ad-f8c087cd2def",
+    "data": [
+      {
+        "text": "i have chikungunya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "928daf13-e2fb-4e24-9b39-d406d0ee900e",
+    "data": [
+      {
+        "text": "i got chikungunya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be6f9a4b-8919-40b4-839f-44886daa3fee",
+    "data": [
+      {
+        "text": "I have symptoms of Chikungunya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

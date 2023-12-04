@@ -1,0 +1,106 @@
+[
+  {
+    "id": "3fe6ffbd-ace0-4f6a-83eb-5077fe177989",
+    "data": [
+      {
+        "text": "hormonal balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd25f2ea-8446-44ba-ae4c-9772782bf184",
+    "data": [
+      {
+        "text": "irregular menstrual cycles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c99e06e6-2329-434f-a022-4c4f9fe7de32",
+    "data": [
+      {
+        "text": "granthsada yonivyapad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d06e8c11-ed9e-4ff9-9d1c-571c9b7d408e",
+    "data": [
+      {
+        "text": "pcos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "952a7315-a11e-418a-aa12-3142aecc5526",
+    "data": [
+      {
+        "text": "Polycystic ovary syndrome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c802ff94-eee4-4ddf-875e-2cb30aac8492",
+    "data": [
+      {
+        "text": "How is PCOS managed in Ayurveda?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a25281fe-0b46-4997-ae96-d56406705848",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs for hormonal balance.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17e55211-9312-4219-b418-6ed33b91d45c",
+    "data": [
+      {
+        "text": "What are the symptoms of PCOS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

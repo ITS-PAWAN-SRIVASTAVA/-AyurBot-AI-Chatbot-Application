@@ -1,0 +1,51 @@
+{
+  "id": "036831d1-4548-4f0e-beed-6f00086d26f1",
+  "parentId": "bb986662-52ee-4e90-a72f-0a8ad3ec5e07",
+  "rootParentId": "bb986662-52ee-4e90-a72f-0a8ad3ec5e07",
+  "name": "Breast Cancer - yes",
+  "auto": true,
+  "contexts": [
+    "BreastCancer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BreastCancer.BreastCancer-yes",
+      "affectedContexts": [
+        {
+          "name": "BreastCancer-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What other symptoms are you facing?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

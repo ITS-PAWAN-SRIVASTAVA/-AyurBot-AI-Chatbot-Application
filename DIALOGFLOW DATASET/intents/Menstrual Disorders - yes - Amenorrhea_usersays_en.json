@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d5bfdc59-1228-42be-9dc4-c3b347bc42f3",
+    "data": [
+      {
+        "text": "late periods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8898397-882e-4266-bacf-3ac0f8ac131a",
+    "data": [
+      {
+        "text": "late menstrual periods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "064e1fa5-d1d5-4871-a171-41e9ce6f6073",
+    "data": [
+      {
+        "text": "delayed periods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89a54318-0aa3-4c8c-aefe-68bcdd48d590",
+    "data": [
+      {
+        "text": "absence of periods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "706af338-4f2c-4d10-a57d-123550a9eeee",
+    "data": [
+      {
+        "text": "absence of menstrual periods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4652dd56-4a4a-4d9b-85a3-ce754892535b",
+    "data": [
+      {
+        "text": "Amenorrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

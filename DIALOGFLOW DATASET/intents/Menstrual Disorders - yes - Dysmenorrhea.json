@@ -1,0 +1,47 @@
+{
+  "id": "26dc3bc4-1cc8-4230-9915-b5f4eeb4b636",
+  "parentId": "dd7cfb7b-f247-499a-ba11-0d6978abedb0",
+  "rootParentId": "04eb96d3-4310-468d-9ef1-fb6a049182c3",
+  "name": "Menstrual Disorders - yes - Dysmenorrhea",
+  "auto": true,
+  "contexts": [
+    "MenstrualDisorders-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MenstrualDisorders.MenstrualDisorders-yes.MenstrualDisorders-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "For Dysmenorrhea, where you experience painful menstrual cramps, excessive bleeding, irregular cycles, or even the absence of periods, consider these Ayurvedic recommendations:\"\n\"You should try Ayurvedic herbs like Ashoka and Lodhra.\"\n\"In Ayurveda, the formulations Dashamoola Kwath and Pushyanuga Churna are recommended.\"\n\"These recommendations are sourced from ancient Ayurvedic texts like Charaka Samhita and Sushruta Samhita.\"\n\"Commonly used synonyms for Dysmenorrhea in Ayurveda are \u0027Kashtartava\u0027.\"\n\"For relief, you might consider Ajwain water, Ginger tea, or Ibuprofen as suggested drugs.\"\n\"Ayurvedic pharmacological properties include a Tikta (bitter) taste, Laghu (light) qualities, Ushna (hot) potency, and Katu (pungent) Vipaka."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

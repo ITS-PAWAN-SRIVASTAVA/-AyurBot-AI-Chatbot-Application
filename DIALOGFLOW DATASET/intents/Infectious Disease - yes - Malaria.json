@@ -1,0 +1,52 @@
+{
+  "id": "43004276-cc73-473a-88db-045061a64426",
+  "parentId": "e9a18385-605b-4b13-a843-0b3f37235784",
+  "rootParentId": "48a74282-7870-4d3a-a333-f715c7c079e6",
+  "name": "Infectious Disease - yes - Malaria",
+  "auto": true,
+  "contexts": [
+    "InfectiousDisease-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "InfectiousDisease.InfectiousDisease-yes.InfectiousDisease-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "InfectiousDisease-yes-Malaria-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Neem (Azadirachta indica): Neem is known for its anti-parasitic properties. It may help in combating the malaria parasite.\n\nGiloy (Tinospora cordifolia): Giloy is considered an immunomodulator and may have antipyretic properties, which can be beneficial during fever associated with malaria.\n\nCinchona (Chirayita): The bark of the cinchona tree contains quinine, which is a traditional remedy for malaria. Quinine is known for its antimalarial properties."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

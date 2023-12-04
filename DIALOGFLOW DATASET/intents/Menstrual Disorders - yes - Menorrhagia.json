@@ -1,0 +1,47 @@
+{
+  "id": "616e4914-b131-4157-bb84-d230bedab6c3",
+  "parentId": "dd7cfb7b-f247-499a-ba11-0d6978abedb0",
+  "rootParentId": "04eb96d3-4310-468d-9ef1-fb6a049182c3",
+  "name": "Menstrual Disorders - yes - Menorrhagia",
+  "auto": true,
+  "contexts": [
+    "MenstrualDisorders-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MenstrualDisorders.MenstrualDisorders-yes.MenstrualDisorders-yes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In the case of Menorrhagia, characterized by excessive menstrual bleeding, painful cramps, irregular cycles, or absence of periods, consider these Ayurvedic recommendations: Ayurvedic herbs like Ashoka and Lodhra can be beneficial for you.\n\"Formulations like Chandraprabha Vati and Ashokarishta are commonly suggested in Ayurveda.\"\n\"Ancient Ayurvedic texts like Charaka Samhita and Sushruta Samhita mention these recommendations.\"\n\"The Ayurvedic term \u0027Raktapradara\u0027 is often used to describe Menorrhagia.\"\n\"For relief, you might consider Tranexamic acid and Iron supplements as suggested drugs.\"\nAyurvedic pharmacological properties include a Katu (pungent) taste, Laghu (light) qualities, Ushna (hot) potency, and Katu (pungent) Vipaka."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "hi",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

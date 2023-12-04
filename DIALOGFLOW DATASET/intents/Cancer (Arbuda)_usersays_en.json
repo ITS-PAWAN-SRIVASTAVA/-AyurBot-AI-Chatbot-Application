@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6fa9442a-64dc-4481-9dfc-e03c30f9de3f",
+    "data": [
+      {
+        "text": "chemotherapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e512a49-43e5-4cef-84aa-8da4538d5be4",
+    "data": [
+      {
+        "text": "unexplainedwieghtloss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31460f62-926b-483f-a413-d09baa4f8bcc",
+    "data": [
+      {
+        "text": "arbuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "585baced-8206-4655-9060-3ecf4eee3bf9",
+    "data": [
+      {
+        "text": "cancer ",
+        "userDefined": false
+      },
+      {
+        "text": "arbuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89a30ea3-e61f-4c1f-8035-fc3dadfdf635",
+    "data": [
+      {
+        "text": "cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ec55d42-34ea-4a38-9235-75d49407325b",
+    "data": [
+      {
+        "text": "Are there specific precautions for cancer prevention?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e99a23c-24ed-4eb1-aa4f-6f46a9704c92",
+    "data": [
+      {
+        "text": "Tell me about Ayurvedic herbs that may support cancer management.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55bcefd8-e60c-452a-8a29-205c1e5fa518",
+    "data": [
+      {
+        "text": "What are the common symptoms of cancer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
